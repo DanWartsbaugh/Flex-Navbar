@@ -1,0 +1,21 @@
+.nav{
+    background-color:slategray;
+    color:white;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding-left:10px;
+    padding-right:10px;
+}
+
+.nav-links{
+    display:flex;
+    list-style:none;
+    margin:10px;
+}
+
+a{
+    color: white;
+    margin:10px;
+    text-decoration:none;
+}
